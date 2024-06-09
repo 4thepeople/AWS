@@ -12,3 +12,8 @@ AWS Developer - Cert
 
 WAF,VPC,SECURITY GROUP, IAM, REDSHIFT,DynamoDb,DocumentDB,RDS, Managed services ,EC2,ECS,CodePipeline, Code deploy,
 
+
+
+## EMR - Elastic Map Reduce
+
+https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-custom-ami.html
